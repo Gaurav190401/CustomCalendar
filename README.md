@@ -19,7 +19,7 @@ The `CustomCalendar` Swift Package provides a customizable calendar component fo
 ### Using Swift Package Manager (SPM)
 1. Open your Xcode project.
 2. Go to `File > Add Packages...`.
-3. Paste the repository URL: `https://github.com/your-username/CustomCalendar`
+3. Paste the repository URL: `https://github.com/Gaurav190401/CustomCalenda`
 4. Choose the latest version and click `Add Package`.
 
 ---
